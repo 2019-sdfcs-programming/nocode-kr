@@ -1,1 +1,1 @@
-All changes are welcome as long as no code is involved. If you run into any bugs, please file an issue and explain how that was even possible.
+빈 코드와 관련되어 있는 한 모든 변경사항을 환영합니다. 만약 버그가 존재한다면, 이슈를 열고 어떻게 재현가능한지 설명하십시오.
