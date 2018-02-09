@@ -1,53 +1,54 @@
-# No Code
+# 빈 코드
 
-No code is the best way to write secure and reliable applications. Write nothing; deploy nowhere.
+빈 코드는 안전하고 신뢰 가능한 앱을 만드는 최고의 방법입니다. 아무것도 작성하지 않고, 아무에게도 배포하지 마십시오.
 
-## Getting Started
+## 시작하기
 
-Start by not writing any code.
-
-```
-
-```
-
-This is just an example application, but imagine it doing anything you want. Adding new features is easy too:
+아무것도 쓰여지지 않은 코드로 시작하십시오.
 
 ```
 
 ```
 
-The possibilities are endless.
-
-### Building the Application
-
-Now that you have not done anything it's time to build your application:
+이것은 예제 앱이지만, 당신이 원하는 모든 작업을 수행한다고 상상하십시오. 새 기능 추가 역시 쉽습니다:
 
 ```
 
 ```
 
-Yep. That's it. You should see the following output:
+가능성은 무한합니다.
+
+### 앱 빌드하기
+
+이제 아무것도 하지 않고 당신의 앱을 빌드할 시간입니다.
 
 ```
 
 ```
 
-### Deploying
-
-While you still have not done anything it's time to deploy your application. By running the following command you can deploy your application absolutely nowhere.
+네. 바로 그것입니다. 당신은 아래 출력을 볼 수 있어야 합니다:
 
 ```
 
 ```
 
-It's that simple. And when it comes time to scale the application, all you have to do is:
+### 배포
+
+당신은 아무것도 한 것이 없지만, 당신의 앱을 배포할 시간입니다. 아래 명령어를 입력하여 그 어떤곳에도 배포하지 마십시오.
 
 ```
 
 ```
 
-I know right?
+이것은 간단합니다. 그리고 앱을 확장해야 한다면 이것을 해야합니다:
 
-## Contributing
+```
 
-You don't.
+```
+
+
+제대로 알고 있을까요?
+
+## 기여
+
+최소한 당신은 하지 않았습니다.
